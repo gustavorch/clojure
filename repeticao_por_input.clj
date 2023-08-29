@@ -1,5 +1,3 @@
-(ns clojur.repeticao_por_input)
-
 (def n (read))
 
 (defn func [x y]
